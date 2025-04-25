@@ -1,3 +1,10 @@
+---
+title: "README"
+output: 
+  github_document:
+      toc: true
+---
+
 File structure:
 .
 ├── R

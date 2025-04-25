@@ -103,7 +103,7 @@ calculate_annual_datasets <- function(yrs, main_dt, sir_dt) {
       FUN = make_annual_dataset,
       main_dt = main_dt,
       sir_dt = sir_dt,
-      mc.cores = 4
+      mc.cores = 1
     )
 
   names(annual_datasets) <- yrs # Give list items year as name
