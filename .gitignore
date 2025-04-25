@@ -4,5 +4,8 @@
 
 # But not these files/directories (whitelist)
 !.gitignore
+!_targets.R
 !README.md
-!R/
+!README.Rmd
+!R
+!R/*

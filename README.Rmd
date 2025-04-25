@@ -1,0 +1,15 @@
+---
+title: "README"
+output: 
+  github_document:
+      toc: true
+---
+.
+├── R
+│   └── functions.R
+├── _targets.R
+├── data
+│   ├── K3anon_FullDataset_for_VfM.csv
+│   └── SIR_table_for_VfM_linked.csv
+└── plots
+    └── died-plot.png
